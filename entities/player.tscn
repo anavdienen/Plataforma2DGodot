@@ -124,6 +124,7 @@ animation = &"jump"
 autoplay = "idle"
 
 [node name="Camera2D" type="Camera2D" parent="."]
+position = Vector2(-4, 0)
 limit_left = 0
 drag_horizontal_enabled = true
 drag_vertical_enabled = true
